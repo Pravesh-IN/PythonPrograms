@@ -10,3 +10,4 @@ funct= [wish, greet, str.lower, str.capitalize]
 
 for f in funct:
     print(f.__name__)
+    print(f)
